@@ -1,7 +1,7 @@
 {
   "name": "parcel-plugin-css-regex-replace",
-  "version": "0.1.0",
-  "description": "Parcel plugin to replace code in CSS files by regular expression",
+  "version": "0.1.1",
+  "description": "Parcel plugin to replace text in CSS files by regular expression",
   "main": "./lib/index.js",
   "keywords": [
     "parcel",
@@ -10,6 +10,10 @@
     "replace",
     "css"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git:github.com/Cybolic/parcel-plugin-css-regex-replace.git"
+  },
   "author": "Christian Dannie Storgaard",
   "license": "MIT",
   "devDependencies": {
